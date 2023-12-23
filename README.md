@@ -1,2 +1,2 @@
 # FunnehGame
-Game that blue screens your pc. Made as a meme
+Note: This game always blue screens your pc. Its made as a joke.
